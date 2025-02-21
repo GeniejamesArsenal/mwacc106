@@ -1,0 +1,42 @@
+body {
+    font-family: 'Istok Web', sans-serif;
+    padding-top: 70px;
+}
+
+nav {
+    background-color: #2D336B;
+}
+
+.navbar-brand {
+    font-size: 15px;
+}
+
+.navbar-brand:hover {
+    color: #7886C7;
+}
+
+.input-group .form-control {
+    border: none;
+    border-radius: 0;
+}
+
+.input-group .form-control:focus {
+    box-shadow: none;
+}
+
+.input-group .btn-search {
+    background-color: #2D336B;
+    color: white;
+    border: none;
+}
+
+.input-group .btn-search:hover {
+    background-color: #7886C7;
+}
+
+.logoname {
+    font-size: 28px;
+    color: #2D336B;
+    padding-right: 20px;
+    font-weight: bold;
+}
